@@ -1,4 +1,3 @@
-//Document Text Resizer script (May 14th, 08'): By JavaScript Kit: http://www.javascriptkit.com
 
 var documenttextsizer={
 
